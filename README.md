@@ -50,6 +50,7 @@ Between 1995 and early 2022, adventure was the highest-grossing movie genre at t
 
 
 With a worldwide box-office gross of over $2.9 billion, Avatar is proclaimed to be the "highest-grossing" film, but such claims usually refer to theatrical revenues only and don't take into account home video and television income, which can form a significant portion of a film's earnings."Avengers: Endgame" (2019) and "Titanic" (1997) followed, with revenues of around 2.8 billion and 2.2 billion dollars, respectively.
+
 <img width="686" alt="st2" src="https://user-images.githubusercontent.com/117164514/202900900-e5e4fcc9-8463-45fe-adaf-3b42e89641ad.png">
 
 Below I have considered the types and number of films that our competitors are making. Universal Studios and 20th Century Fox have produced the largest amount leading films by gross, their focus has been on Action and Drama. All through the list, there is a common theme of the leaders producing films in the genres of Action, Drama and Comedy. We would recommend doing the same for consistent results.
