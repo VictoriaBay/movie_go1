@@ -62,4 +62,4 @@ Preparation, modelling, visualisation and interpretation of the data, allowed me
 * the lengthiest movies should be between 120 - 140 minutes maximum
 * the industry leaders preferred creating Action, Drama & Comedy films
 
-
+[(https://docs.google.com/presentation/d/1VXTs_VSIx3wbcHg3ywKl0KDuJs7exSqwW2mFdVlRiZo/edit?usp=sharing)]
